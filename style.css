@@ -38,8 +38,8 @@ body {
 
 
 #chat-container iframe {
-    width: 1200px;
-    height: 500px;
+    width: 1050px;
+    height: 300px;
     
 }
 
@@ -62,3 +62,4 @@ footer {
     border-top: 1px solid #00ff88;
     width: 100%;
 }
+
