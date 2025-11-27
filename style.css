@@ -36,11 +36,6 @@ body {
     transform: scale(1.05);
 }
 
-#chat-container {
-    width: 90%;
-    height: 90%;
-
-}
 
 #chat-container iframe {
     width: 1200px;
