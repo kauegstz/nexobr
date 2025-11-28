@@ -50,7 +50,7 @@ body {
 }
 
 #img-membros {
-    width: 40%;
+    width: 25%;
     border-radius: 0px;
     margin-top: 20px;
 }
@@ -62,5 +62,6 @@ footer {
     border-top: 1px solid #00ff88;
     width: 100%;
 }
+
 
 
